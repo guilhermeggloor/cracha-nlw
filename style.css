@@ -14,7 +14,7 @@ body {
   place-items: center;
 }
 main {
-  background: url(images/backgroundm.svg);
+  background: url(images/background.png);
   width: 375px;
   height: 812px;
   text-align: center;
